@@ -1,1 +1,9 @@
+This program calculate the sum of squares of given input of numbers
 
+input n as a number of square numbers
+set variable sum to 0
+repeat n times
+    input a number m
+	  calculate the square of m
+	  add the result to sum
+print sum
